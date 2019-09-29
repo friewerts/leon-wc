@@ -1,0 +1,15 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2017",
+    "module": "umd",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "noUnusedLocals": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./"
+  }
+}
